@@ -58,7 +58,7 @@ Check out my repositories to see what I'm currently working on.
 
 - GitHub: https://github.com/izzhazriq
 - LinkedIn: https://www.linkedin.com/in/izzhazriq
-- Email: izzhzariqq@gmail.com
+- Email: izzhazriqq@gmail.com
 
 ---
 
