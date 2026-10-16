@@ -9,7 +9,7 @@ I build full-stack web apps, experiment with applied AI, and I'm learning how en
 ## What I'm working on
 
 - 🏢 **Interning at Gamuda Technologies**: working on internal web tools, APIs and databases in an enterprise codebase.
-- 🗂️ **TaskForge**: one place for a university student's personal tasks, group assignments and Final Year Project. It has a "My work" list sorted by due date, group boards with supervisor access, semester-week due dates and a contribution report for peer evaluation. Built with Node.js, Express, SQLite and plain JavaScript.
+- 🗂️ **[TaskForge](https://github.com/izzhazriq/taskforge)**: one place for a university student's personal tasks, group assignments and Final Year Project. It has a "My work" list sorted by due date, group boards with supervisor access, semester-week due dates and a contribution report for peer evaluation. Built with Node.js, Express, SQLite and plain JavaScript.
 - 🤖 **Applied AI**: building with the Claude API and Base44 to turn ideas into working products quickly.
 
 ## Tech I use
