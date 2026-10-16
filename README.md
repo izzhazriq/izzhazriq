@@ -1,65 +1,37 @@
-# Hi there, I'm Izz Hazriq 👋
+# Hi, I'm Izz Hazriq 👋
 
-🎓 University Student  
-💻 Aspiring Software Developer  
-🎥 Multimedia & Content Creator  
-🏀 Basketball Enthusiast  
-📍 Malaysia
+**Software Development Intern at Gamuda Technologies** · Diploma in Computer Science · Malaysia 🇲🇾
 
-## About Me
+I build full-stack web apps, experiment with applied AI, and I'm learning how enterprise software is made on the job. Lately I've been building tools that make student life in Malaysia a bit easier.
 
-I'm a university student passionate about technology, programming, and creative media. I enjoy building software projects, learning new technologies, and exploring ways to turn ideas into real products.
+🌐 [izzhazriq.my](https://izzhazriq.my) · 💼 [LinkedIn](https://www.linkedin.com/in/izzhazriq) · ✉️ izzhazriqq@gmail.com
 
-Currently, I'm focusing on:
-- Object-Oriented Programming
-- Web Development
-- Database Systems
-- Linux & Open Source
-- Video Editing and Content Production
+## What I'm working on
 
-## Tech Stack
+- 🏢 **Interning at Gamuda Technologies**: working on internal web tools, APIs and databases in an enterprise codebase.
+- 🗂️ **TaskForge**: one place for a university student's personal tasks, group assignments and Final Year Project. It has a "My work" list sorted by due date, group boards with supervisor access, semester-week due dates and a contribution report for peer evaluation. Built with Node.js, Express, SQLite and plain JavaScript.
+- 🤖 **Applied AI**: building with the Claude API and Base44 to turn ideas into working products quickly.
 
-### Languages
-- PHP
-- Java
-- JavaScript
-- HTML
-- CSS
-- SQL
+## Tech I use
 
-### Tools & Technologies
-- MySQL
-- Git & GitHub
-- VS Code
-- Linux
-- Windows
-- Adobe Premiere Pro
+**Languages:** Java · JavaScript · Python · C++ · PHP · SQL · HTML · CSS
 
-## Current Goals
+**Web & backend:** Node.js · Express · REST APIs · MySQL · SQLite
 
-- Build a strong software development portfolio
-- Contribute to open-source projects
-- Improve problem-solving and programming skills
-- Earn income through technology and digital services
-- Complete more real-world development projects
+**AI & tools:** Claude API · Base44 · Git & GitHub · VS Code · Linux
 
-## Projects
+**Creative:** Adobe Premiere Pro · video production
 
-Check out my repositories to see what I'm currently working on.
+## Right now I'm
 
-## Fun Facts
+- Building a portfolio of real projects people actually use
+- Getting better at testing, clean code and shipping things properly
+- Learning more about enterprise software engineering
 
-- I enjoy playing basketball.
-- I love learning new technologies.
-- I have an interest in entrepreneurship and building businesses.
-- I enjoy video production and creative design.
+## Outside code
 
-## Connect With Me
-
-- GitHub: https://github.com/izzhazriq
-- LinkedIn: https://www.linkedin.com/in/izzhazriq
-- Email: izzhazriqq@gmail.com
+I play basketball, make videos, and I'm interested in entrepreneurship and building businesses.
 
 ---
 
-*"Keep learning, keep building."*
+*Keep learning, keep building.*
